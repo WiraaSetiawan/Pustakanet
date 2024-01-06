@@ -1,4 +1,10 @@
+<h2 align="center">KELOMPOK PUSTAKANET</h2>
 
+<p align="center">I Kadek Wira Agus Setiawan (2215101002)</p>
+<p align="center">Steven Aleuntian Patty (2215101021)</p>
+<p align="center">Kadek Doni Diatmika (2215101029)</p>
+
+<p align="center">Link Video Youtube : <a href="https://youtu.be/VMj1Qu9Dkec">Click Me</a></p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
